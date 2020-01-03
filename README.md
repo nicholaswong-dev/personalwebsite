@@ -3,7 +3,5 @@
 ## Test Description
 
 List:
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+- [x] This is a complete item
+- [ ] This is an incomplete item
